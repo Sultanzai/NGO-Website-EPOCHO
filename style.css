@@ -1026,6 +1026,9 @@ footer p, footer a {
     margin-top: 20vh;
     text-align: center;
 }
+.team-wrap .card{
+  margin-left: 20%;
+}
 .team-wrap h2 {
   padding-bottom: 5vh;
 }
@@ -1145,6 +1148,9 @@ footer p, footer a {
         text-align: left;
         margin-left: 20%;
         display: block;
+    }
+    .team-wrap .card{
+      margin-left: 0;
     }
 }
 
